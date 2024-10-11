@@ -40,7 +40,7 @@ def main():
             arm_group.set_named_target(pose)
             arm_group.go(wait=True)
 
-        # Wait for 20 seconds before the next movement
+        # Wait for 10 seconds before the next movement
         time.sleep(10)
 
     # Shut down MoveIt cleanly

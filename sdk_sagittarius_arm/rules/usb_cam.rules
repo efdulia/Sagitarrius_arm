@@ -1,2 +1,0 @@
-SUBSYSTEM=="video4linux", ATTRS{idVendor}=="0c45", ATTRS{idProduct}=="64ab", SYMLINK+="usb_cam", MODE:="0666", OWNER:="root", ATTR{index}=="0"
-
