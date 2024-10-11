@@ -9,7 +9,7 @@ To get started, please navigate to the directory where you want to clone this re
 ```bash
 cd ~/sagittarius_ws/src/  # Replace with your own directory if different
 source devel/setup.bash
-git clone https://github.com/efdulia/sagittarius_arm_ros_esrat.git
+git clone https://github.com/efdulia/sagitarrius_arm_ros_esrat.git
 ```
 
 # 2. Launching the Customized Package
