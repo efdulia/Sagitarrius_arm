@@ -4,9 +4,7 @@ This guide explains how to set up and run the Sagittarius Arm Robot simulation u
 
 ## Step 1. Cloning Repository
 
-To begin, navigate to the directory where you would like to clone this repository. This repository contains all the necessary files for running the Sagittarius Arm Robot simulation. If you already have the sagittarius_ws workspace installed from this repository, follow the commands below to clone the new repository into your workstation.
-
-Make sure you are in the correct directory where your ROS workspace is located, typically sagittarius_ws. If you've set up the workspace in a different location, replace the directory path accordingly in the commands below.
+To begin, navigate to the directory where you would like to clone this repository. This repository contains all the necessary files for running the simulation. Make sure you are in the correct directory where your ROS workspace is located. If you already have the sagittarius_ws workspace installed from this repository, follow the commands below to clone the new repository into your workstation. If you've set up the workspace in a different location, replace the directory path accordingly in the commands below.
 
 ```bash
 cd ~/sagittarius_ws/src/    # Navigate to your ROS workspace's src folder
