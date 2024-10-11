@@ -39,7 +39,7 @@ This should open the MoveIt Assistant. Now click on "Edit Existing MoveIt Config
 ```
 Go to the 'Robot Poses' tab on the left, add new poses, and give each new pose a name (remember the names). After adding the new poses in MoveIt Assistant, you only need to update the names of the new poses in the 'execute_poses' Python script. This is the script responsible for controlling the arm’s movements, as mentioned in step 4. Once updated, the script will use these new poses to command the robot arm in RViz.
 
-# Step 4. Running the Python Script for Robot Arm Movement
+# Step 4. Running Python Script for Robot Arm Movement
 
 After launching the RViz simulation, you can control the robot arm’s movements using a Python script named "execute_poses," located in the test_code folder.
 
