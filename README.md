@@ -2,7 +2,7 @@
 
 This guide explains how to set up and run the Sagittarius Arm Robot simulation using ROS. Please follow the instructions carefully to ensure proper configuration of your environment.
 
-# Step 1. Cloning the Repository
+# Step 1. Cloning Repository
 
 To get started, navigate to the directory where you want to clone this repository. Clone the repository containing the necessary files into your workstation. If you installed the "sagittarius_ws" workspace from (https://github.com/NXROBO/sagittarius_ws), then follow the commands below:
 
@@ -12,7 +12,7 @@ source devel/setup.bash
 git clone https://github.com/efdulia/sagitarrius_arm_ros_esrat.git
 ```
 
-# Step 2. Launching the Customized Package
+# Step 2. Launching Customized Package
 
 Next, launch the customized "sagittarius_moveit_Esrat_sim" package to visualize the arm robot in RViz. This package contains the customized configuration and launch files created in the MoveIt Assistant. 
 
