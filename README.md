@@ -1,10 +1,10 @@
-# Sagittarius Arm Robot Simulation
+## Sagittarius Arm Robot Simulation
 
 This guide explains how to set up and run the Sagittarius Arm Robot simulation using ROS. Please follow the instructions carefully to ensure proper configuration of your environment.
 
-1. Cloning the Repository
+# 1. Cloning the Repository
 
-To get started, navigate to the directory where you want to clone this repository. Clone the repository containing the necessary files into your workstation. In this example, I am working in `~/sagittarius_ws`, but you should replace this path with the location where you want to set up the files on your workstation.
+To get started, please navigate to the directory where you want to clone this repository. Clone the repository containing the necessary files into your workstation. In this example, I am working in `~/sagittarius_ws`, but you should replace this path with the location where you want to set up the files on your workstation.
 
 ```bash
 cd ~/sagittarius_ws/src/  # Replace with your own directory if different
@@ -33,6 +33,6 @@ cd src/sagittarius_arm_ros_esrat/test_code/
 python3 execute_poses.py
 ```
 
-
+Check the RViz that you launched. It should display the planning as instructed in the Python script.
 
 
