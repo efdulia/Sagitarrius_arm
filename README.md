@@ -4,7 +4,7 @@ This guide explains how to set up and run the Sagittarius Arm Robot simulation u
 
 # Step 1. Cloning the Repository
 
-To get started, navigate to the directory where you want to clone this repository. Clone the repository containing the necessary files into your workstation. If you installed the "sagittarius_ws" workspace from [https://github.com/NXROBO/sagittarius_ws], then follow the commands below:
+To get started, navigate to the directory where you want to clone this repository. Clone the repository containing the necessary files into your workstation. If you installed the "sagittarius_ws" workspace from (https://github.com/NXROBO/sagittarius_ws), then follow the commands below:
 
 ```bash
 cd ~/sagittarius_ws/src/  # Replace with your own directory if different
